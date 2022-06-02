@@ -13,3 +13,14 @@ git commit -m "Your Message here"
 
 For Checking Statu of the files
 git status
+
+for Creating or Switching Branches
+git checkout -b "Branch Name"
+
+for checking branch name 
+git branch
+
+for adding Local code to Remote  Repository
+git remote add origin "Repository Address"
+
+for pushing Code to Repository
