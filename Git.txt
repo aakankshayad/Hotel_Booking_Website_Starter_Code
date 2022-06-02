@@ -1,0 +1,15 @@
+for initializing Git Repository
+git init
+
+
+Daily use:-
+
+For adding files in staging area
+git add "File"
+git add .
+
+For Git Commit
+git commit -m "Your Message here"
+
+For Checking Statu of the files
+git status
