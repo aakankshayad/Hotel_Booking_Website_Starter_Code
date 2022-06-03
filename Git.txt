@@ -1,7 +1,7 @@
 for initializing Git Repository
 git init
 
-
+==================================================
 Daily use:-
 
 For adding files in staging area
@@ -14,6 +14,9 @@ git commit -m "Your Message here"
 For Checking Statu of the files
 git status
 
+for pushing Code to Repository
+git push -u origin master
+====================================================
 for Creating or Switching Branches
 git checkout -b "Branch Name"
 
@@ -23,4 +26,3 @@ git branch
 for adding Local code to Remote  Repository
 git remote add origin "Repository Address"
 
-for pushing Code to Repository
