@@ -9,7 +9,7 @@ git add "File"
 git add .
 
 For Git Commit
-git commit -m "Your Message here"
+git commit -m "Message"
 
 For Checking Statu of the files
 git status
